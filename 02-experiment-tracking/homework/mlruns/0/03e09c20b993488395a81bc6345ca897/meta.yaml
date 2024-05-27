@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/03e09c20b993488395a81bc6345ca897/artifacts
+end_time: 1716827232122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03e09c20b993488395a81bc6345ca897
+run_name: bold-dove-909
+run_uuid: 03e09c20b993488395a81bc6345ca897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716827215953
+status: 3
+tags: []
+user_id: codespace

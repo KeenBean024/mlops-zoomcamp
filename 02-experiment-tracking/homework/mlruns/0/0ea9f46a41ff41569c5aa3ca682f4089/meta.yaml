@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/0ea9f46a41ff41569c5aa3ca682f4089/artifacts
+end_time: 1716826400992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ea9f46a41ff41569c5aa3ca682f4089
+run_name: skittish-boar-440
+run_uuid: 0ea9f46a41ff41569c5aa3ca682f4089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716826389147
+status: 3
+tags: []
+user_id: codespace

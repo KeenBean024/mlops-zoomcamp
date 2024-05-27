@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/bcf2901140544ee2a205ac1d4607ee8c/artifacts
+end_time: 1716826963912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcf2901140544ee2a205ac1d4607ee8c
+run_name: classy-bird-975
+run_uuid: bcf2901140544ee2a205ac1d4607ee8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716826947261
+status: 3
+tags: []
+user_id: codespace

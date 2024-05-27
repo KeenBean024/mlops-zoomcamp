@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/4173dc2a18754838af08fc6c0cde535e/artifacts
+end_time: 1716826367494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4173dc2a18754838af08fc6c0cde535e
+run_name: awesome-lark-783
+run_uuid: 4173dc2a18754838af08fc6c0cde535e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716826355603
+status: 3
+tags: []
+user_id: codespace
