@@ -1,0 +1,10 @@
+train_set:
+  object_type: pipeline
+  object_uuid: ingest
+  outdated_after:
+    seconds: null
+    weeks: 1
+  project: data_prep
+  repo_path: /home/src/mlops/data_prep
+  settings:
+    build: {}

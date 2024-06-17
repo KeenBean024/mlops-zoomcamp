@@ -1,5 +1,5 @@
 projects:
-  unit_0_setup: {}
-  unit_1_data_preparation: {}
-  unit_2_training: {}
-  unit_3_observability: {}
+  data_prep:
+    path: data_prep
+  train:
+    path: train
